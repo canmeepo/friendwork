@@ -18,6 +18,10 @@ tr:nth-child(odd) {
   cursor: pointer;
   position: relative;
 }
+.headerNav:hover {
+  color: #000;
+  transition: 0.3s;
+}
 .headerNav::after {
   content: "^";
   position: absolute;
@@ -43,4 +47,5 @@ table {
 }
 .button:hover {
   background-color: #f38938;
+  transition: 0.3s;
 }

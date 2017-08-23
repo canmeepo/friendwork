@@ -2,6 +2,7 @@
   "name": "friendwork",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://canmeepo.github.io/friendwork",
   "dependencies": {
     "date-fns": "^1.28.5",
     "lodash": "^4.17.4",
