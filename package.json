@@ -5,6 +5,7 @@
   "homepage": "https://canmeepo.github.io/friendwork",
   "dependencies": {
     "date-fns": "^1.28.5",
+    "gh-pages": "^1.0.0",
     "lodash": "^4.17.4",
     "ramda": "^0.24.1",
     "react": "^15.6.1",
